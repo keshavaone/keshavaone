@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Keshava Rao</h1>
 <h3 align="center">Welcome to my GitHub profile! Here, you'll find a collection of my open-source projects, contributions, and activities. I'm passionate about programming and enjoy collaborating with others to build innovative software solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xlibraries&label=Profile%20views&color=0e75b6&style=flat" alt="xlibraries" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xlibraries&label=Profile%20views&color=0e75b6&style=flat" alt="keshavaone" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xlibraries" alt="xlibraries" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xlibraries" alt="keshavaone" /></a> </p>
 
 - 🔭 I’m currently working on [Web Development and Automation]
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/keshavaone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xlib" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keshavaone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshavaone" height="30" width="40" /></a>
 <a href="https://instagram.com/keshava_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xlibraries" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@kchennakesavarao1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xlibraries" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/aman9893089064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman9893089064" height="30" width="40" /></a> -->
@@ -30,8 +30,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img className="m-1" src="[https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/pypi/pyversions/:packageName" alt="aman c-sharp" />
-<img className="m-1" src="[https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white](https://img.shields.io/pypi/pyversions/pandas" alt="aman unity" />
+<img className="m-1" src="https://img.shields.io/pypi/pyversions/pandas" alt="aman c-sharp" />
+<img className="m-1" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="aman unity" />
 <img className="m-1" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="aman PHP"/>
 <img className="m-1" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="aman javascript" />
 <img className="m-1" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="aman c++" />
