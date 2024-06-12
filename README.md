@@ -32,7 +32,7 @@
 <p align="left">
 <img className="m-1" src="https://img.shields.io/pypi/pyversions/pandas" alt="keshavaone python" />
   
-<img className="m-1" src="https://img.shields.io/pypi/frameworkversions/django/url" alt="aman unity" />
+<img className="m-1" src="https://img.shields.io/pypi/frameworkversions/django/django-routines" alt="keshavaone django" />
 <img className="m-1" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="aman PHP"/>
 <img className="m-1" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="aman javascript" />
 <img className="m-1" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="aman c++" />
