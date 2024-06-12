@@ -40,8 +40,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavaone&show_icons=true&locale=en&layout=compact" alt="keshavaone" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlibraries&show_icons=true&locale=en" alt="xlibraries" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavaone&show_icons=true&locale=en" alt="keshavaone" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlibraries&" alt="xlibraries" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavaone&" alt="keshavaone" /></p>
 
 Thank you for visiting my GitHub profile! Have a great day! 😄
